@@ -10,6 +10,7 @@ The mods i made for the games i like:
     - [TW3 Script merger](https://github.com/Aelto/tw3-script-merger), for a command-line  solution to merge all your mods in a few milliseconds
     - [Shared Utils](https://github.com/Aelto/tw3-shared-utils), for a set of utilities to craft new quests with ease
     - [Perk fixes](https://github.com/Aelto/tw3-perk-fixes) Modular fixes for a few bugged perks from the game The Witcher 3
+    - [Automatic Dialog Picker](https://github.com/Aelto/tw3-automatic-dialog-picker) to automatically picks the dialog choice that makes the most sense
   - **Guild Wars 2**:
     - [Guild Wars 2 Build Bank](https://github.com/Aelto/gw2-build-bank)
 
