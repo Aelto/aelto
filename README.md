@@ -12,6 +12,7 @@ The mods i made for the games i like:
     - [Perk fixes](https://github.com/Aelto/tw3-perk-fixes) Modular fixes for a few bugged perks from the game The Witcher 3
     - [Automatic Dialog Picker](https://github.com/Aelto/tw3-automatic-dialog-picker) to automatically picks the dialog choice that makes the most sense
     - [Increased materials requirement](https://github.com/Aelto/tw3-increased-materials-requirement) A mod with a simple concept: make crafting more interesting while also balancing the late game economy. Click the link for more information
+    - [Consumables on cooldowns](https://github.com/Aelto/tw3-consumables-on-cooldowns) to change how consumables work by making them free but with a cooldown
   - **Guild Wars 2**:
     - [Guild Wars 2 Build Bank](https://github.com/Aelto/gw2-build-bank)
 
