@@ -17,4 +17,4 @@ The mods i made for the games i like:
     - [Guild Wars 2 Build Bank](https://github.com/Aelto/gw2-build-bank)
 
 Other fun little projects i made:
- - [modspot](https://github.com/Aelto/modspot) to easily browse all the modding communities on Github for free and without ads
+ - [modspot](https://modspot.dev/browse) (work in progress) to find my other mods
