@@ -5,6 +5,7 @@ The mods i made for the games i like:
     - [Random Encounters Reworked](https://github.com/Aelto/tw3-random-encounters-reworked), for dynamic events and randomly generated quests
     - [Combat Skills](https://github.com/Aelto/tw3-combat-skills), for a more dynamic combat system
     - [Resources & Perks Overhaul](https://github.com/Aelto/tw3-resources-perks-overhaul), for a permissive & interactive stamina system
+    - [Smart Camera](https://github.com/Aelto/tw3-smart-camera) A mod that controls the camera positioning during combat so that you don't have to manage it yourself. Mainly aimed at gamepad users.
     - [Challenge Mode](https://github.com/Aelto/tw3-challenge-mode), for a more difficult experience
     - [TW3 Modlist Manager](https://github.com/Aelto/tw3-modlist-manager), to manage different modlists in just a click
     - [TW3 Script merger](https://github.com/Aelto/tw3-script-merger), for a command-line  solution to merge all your mods in a few milliseconds
