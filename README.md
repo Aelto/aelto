@@ -14,6 +14,8 @@ The mods i made for the games i like:
     - [Increased materials requirement](https://github.com/Aelto/tw3-increased-materials-requirement) A mod with a simple concept: make crafting more interesting while also balancing the late game economy. Click the link for more information
     - [Consumables on cooldowns](https://github.com/Aelto/tw3-consumables-on-cooldowns) to change how consumables work by making them free but with a cooldown
     - [Infinite consumables](https://github.com/Aelto/tw3-infinite-consumables) to make all your consumables infinite but with a greater crafting cost. Made with Primer or Preparations in mind
+    - [CROW combat modules](https://modspot.dev/u/aeltoth/tw3-crow) for a modular combat package that aims to be permissive by rewarding an aggressive play-style without punishing the rest
+    - [A Gwent Empire](https://modspot.dev/u/aeltoth/a-gwent-empire) in order to turn everyone on the continent into avid Gwent players
   - **Guild Wars 2**:
     - [Guild Wars 2 Build Bank](https://github.com/Aelto/gw2-build-bank)
 
