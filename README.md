@@ -1,5 +1,5 @@
-### Hi there 👋
-# My mods
+# Projects organized by theme
+## Modding
 The mods i made for the games i like:
   - **The Witcher 3**:
     - [Random Encounters Reworked](https://github.com/Aelto/tw3-random-encounters-reworked), for dynamic events and randomly generated quests
@@ -18,6 +18,18 @@ The mods i made for the games i like:
     - [A Gwent Empire](https://modspot.dev/u/aeltoth/a-gwent-empire) in order to turn everyone on the continent into avid Gwent players
   - **Guild Wars 2**:
     - [Guild Wars 2 Build Bank](https://github.com/Aelto/gw2-build-bank)
+  - **Guild Wars 1**:
+    - [Codex Ironman](https://aelto.github.io/gw-codex-ironman/) gamemode with custom ruleset based on codex arenas
+
+## Software dev.
+### Rust projects
+- [Surreal Simple Querybuilder](https://github.com/Aelto/surreal-simple-querybuilder)
+- [lv-server](https://github.com/Aelto/lv-server) A framework for working with Actix, Maud, and HTMX with a focus on developper experience
+- [shcs](https://github.com/Aelto/shcs) An easy to setup self-hosted bucket cloud storage with the ability to store extra information alongside the entries
+- [tw3-cahirp](https://github.com/Aelto/tw3-cahirp), a ansible-like solution to merging scripts when modding the Witcher 3 game
+
+### Frontend projects
+- [GW1 Codex Ironman](https://github.com/Aelto/gw-codex-ironman), Svelte frontend that uses github pages as hosting
 
 Other fun little projects i made:
  - [modspot](https://modspot.dev/browse) (work in progress) to find my other mods
