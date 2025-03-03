@@ -1,5 +1,4 @@
-# Projects organized by theme
-## Modding
+## Modding projects
 The mods i made for the games i like:
   - **The Witcher 3**:
     - [Random Encounters Reworked](https://github.com/Aelto/tw3-random-encounters-reworked), for dynamic events and randomly generated quests
@@ -21,7 +20,7 @@ The mods i made for the games i like:
   - **Guild Wars 1**:
     - [Codex Ironman](https://aelto.github.io/gw-codex-ironman/) gamemode with custom ruleset based on codex arenas
 
-## Software dev.
+## Software dev. / open source projects 
 ### Rust projects
 - [Surreal Simple Querybuilder](https://github.com/Aelto/surreal-simple-querybuilder)
 - [lv-server](https://github.com/Aelto/lv-server) A framework for working with Actix, Maud, and HTMX with a focus on developper experience
