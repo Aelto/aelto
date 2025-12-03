@@ -1,5 +1,7 @@
 ## Modding projects
 The mods i made for the games i like:
+  - [nexusmods profile](https://next.nexusmods.com/profile/Aeltoth/mods?gameId=952)
+  - [modspot profile](https://modspot.dev/u/aeltoth)
   - **The Witcher 3**:
     - [Random Encounters Reworked](https://github.com/Aelto/tw3-random-encounters-reworked), for dynamic events and randomly generated quests
     - [Combat Skills](https://github.com/Aelto/tw3-combat-skills), for a more dynamic combat system
