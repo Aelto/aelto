@@ -34,3 +34,6 @@ The mods i made for the games i like:
 
 Other fun little projects i made:
  - [modspot](https://modspot.dev/browse) (work in progress) to find my other mods
+
+### rendering / gamedev projects
+- [Opengl-cge](https://github.com/Aelto/opengl-cge), a c++ opengl framework that can perform 2D batched rendering
